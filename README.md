@@ -18,7 +18,7 @@ Users can search for images by keyword and view high-quality photos dynamically 
 , Clean and simple UI
 , Uses async/await for API calls
 
-★ Project Structure:
+• Project Structure:
 
 image-search-website/
 │
